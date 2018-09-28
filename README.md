@@ -1,5 +1,3 @@
-# PrivacyPolicy
-
 <!DOCTYPE html>
 <html>
 	<head>

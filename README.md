@@ -11,8 +11,9 @@
 			<p> 
 			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.GoHelicopter" target="_blank">Go Helicopter</a>,
 			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.TruckTransport" target="_blank">Truck Transport</a>,
-			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.TransportCompany" target="_blank">Transport Company</a> and 
-			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.MonsterTrucksfromPoland" target="_blank">Monster Trucks from Poland</a>
+			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.TransportCompany" target="_blank">Transport Company</a>,
+			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.MonsterTrucksfromPoland" target="_blank">Monster Trucks from Poland</a> and 
+			<a href="https://play.google.com/store/apps/details?id=com.MateuszowSKY.EightyPercent" target="_blank">80%</a>
 			are Ad Supported apps. That SERVICES are provided by MateuszowSKY at no cost and is intended for use as is.</p> 
 			<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p> 
 			<p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p> 
